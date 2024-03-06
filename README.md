@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img width="100%" alt="Banner" title="Banner" src=".github/banner.png" />
-</h1>
-
 ### Links
 
 🔴 **Figma do projeto:** [Cook App](https://www.figma.com/file/dstMuQZDrbJe12VLGaRgeN/Cook-App?type=design&node-id=2002%3A694&mode=design&t=PlFPVvCZkKRc7khB-1)
